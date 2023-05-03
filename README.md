@@ -1,4 +1,5 @@
 Things we'll need
+
 .Zilla, import the font type, and font size, screen size, color schemes and the rest that we'll use. Integrate it into the tailwind config.
 
 .From now henceforth, our design is going to be following a structure
